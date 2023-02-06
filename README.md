@@ -1,0 +1,1 @@
+Proceso de mentoria improvisada para explicarle a un compañero de clase el proceso de consumo de API, asi como algunas de las bases para la manipulacion del DOOM con JS.
